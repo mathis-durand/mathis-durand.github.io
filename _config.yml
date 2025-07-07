@@ -19,7 +19,7 @@ exclude:
   - README.md
 
 # Collections
-#collections:
-#  projects:
-#    output: true        # Generate pages for each project
-#    permalink: /projects/:path/
+collections:
+  projects:
+    output: true        # Generate pages for each project
+    permalink: /projects/:path/
