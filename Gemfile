@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "github-pages", "~> 232"
 gem "jekyll", "~> 4.0"    # Or the latest version
 gem "minima", "~> 2.5"    # Or the latest version (if you're using it)
 gem "al-folio"
