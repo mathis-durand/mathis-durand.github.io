@@ -1,0 +1,25 @@
+title: mathis-durand        
+email: me@mathis-durand.fr  
+description: >-         
+  This is my professional website showcasing my projects and skills.
+
+baseurl: ""              
+url: "https://mathis-durand.github.io
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins 
+#plugins:
+
+
+# Exclude files/folders from being processed
+exclude:
+  - README.md
+
+# Collections
+#collections:
+#  projects:
+#    output: true        # Generate pages for each project
+#    permalink: /projects/:path/
