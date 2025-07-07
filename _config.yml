@@ -25,3 +25,6 @@ collections:
   projects:
     output: true        # Generate pages for each project
     permalink: /projects/:path/
+  publications:
+    output: true      # Generate HTML files
+    permalink: /publications/:path/  # Optional: Customize URLs
