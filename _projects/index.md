@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mathis Durand - Cybersecurity Researcher
+title: Mathis Durand - Projects
 ---
 
 # Mathis Durand's projects
@@ -9,17 +9,18 @@ title: Mathis Durand - Cybersecurity Researcher
 
 Short description
 
-[Details](/projects/phd-thesis/) | [repo](https://github.com/mathis-durand/phd-thesis)
+[Details](/projects/phd-thesis/)
+
+[repo](https://github.com/mathis-durand/phd-thesis)
+
+
 
 ## ECW honeypot-based challenge
 
 Short description
 
-[Details](/projects/honeypot-based-challenge/) <!-- | [repo](https://github.com/mathis-durand/honeypot-based-ctf) -->
+[Details](/projects/honeypot-based-challenge/)
 
-## ...
 
-Short description
 
-[Details](/projects//) <!-- | [repo](https://github.com/mathis-durand/) -->
 
