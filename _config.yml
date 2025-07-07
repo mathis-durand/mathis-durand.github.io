@@ -8,11 +8,12 @@ url: "https://mathis-durand.github.io"
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-architect
+#remote_theme: pages-themes/architect@v0.2.0
 
 # Plugins
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude files/folders from being processed
 exclude:
