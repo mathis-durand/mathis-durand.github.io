@@ -17,12 +17,12 @@
   {% include header.html %}  <!-- Include the header -->
 
   <main class="container">
-    {{ content }}        <!-- This is where the page content is inserted -->
+    <section id="main-content">
+          {{ content }}
+    </section>
   </main>
 
-  <section id="main-content">
-          {{ content }}
-  </section>
+  
 
   {% include footer.html %}  <!-- Include the footer -->
 
