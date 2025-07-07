@@ -7,7 +7,7 @@ title: Mathis Durand - Cybersecurity Researcher
 
 ## ...
 
-[View my projects](/projects/) | [Read my blog](/blog/) | [Contact me](mailto:me@mathis-durand.fr)
+[View my projects](/projects/index/) | [Read my blog](/blog/) | [Contact me](mailto:me@mathis-durand.fr)
 
 ## About Me
 
