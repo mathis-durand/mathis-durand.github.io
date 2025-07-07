@@ -8,14 +8,11 @@ url: "https://mathis-durand.github.io"
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll/minima
+remote_theme: pages-themes/architect@v0.2.0
 
 # Plugins 
 plugins:
   - jekyll-remote-theme
-  
-minima:
-  skin: dark
 
 # Exclude files/folders from being processed
 exclude:
