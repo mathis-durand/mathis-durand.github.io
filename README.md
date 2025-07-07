@@ -1,5 +1,6 @@
 # mathis-durand.github.io
 
+```struct
 .
 ├── _config.yml
 ├── _data/
@@ -18,3 +19,4 @@
 ├── Gemfile
 ├── Gemfile.lock
 └── README.md
+```
