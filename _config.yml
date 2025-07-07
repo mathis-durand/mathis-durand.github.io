@@ -3,7 +3,7 @@ email: me@mathis-durand.fr
 description: >-         
   This is my professional website showcasing my projects and skills.
 
-baseurl: ""              
+baseurl:           
 url: "https://mathis-durand.github.io"
 
 # Build settings
