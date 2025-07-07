@@ -4,7 +4,7 @@ description: >-
   This is my professional website showcasing my projects and skills.
 
 baseurl: ""              
-url: "https://mathis-durand.github.io
+url: "https://mathis-durand.github.io"
 
 # Build settings
 markdown: kramdown
