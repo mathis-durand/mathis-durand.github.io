@@ -1,0 +1,30 @@
+---
+---
+@import "minima";  // Import the Minima theme (if using it)
+
+// Custom styles
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.site-header {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+}
+
+.site-footer {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+  margin-top: 20px;
+}
