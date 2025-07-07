@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  {%- if jekyll.environment == 'production' -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  {% seo %}
+</head>
+<body>
+
+  {% include header.html %}  <!-- Include the header -->
+
+  <main class="container">
+    {{ content }}        <!-- This is where the page content is inserted -->
+  </main>
+
+  {% include footer.html %}  <!-- Include the footer -->
+
+</body>
+</html>
