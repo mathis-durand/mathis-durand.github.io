@@ -8,7 +8,7 @@ url: "https://mathis-durand.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: forty
 
 # Plugins 
 #plugins:
@@ -16,6 +16,7 @@ theme: minima
 
 # Exclude files/folders from being processed
 exclude:
+  - Gemfile
   - README.md
 
 # Collections
