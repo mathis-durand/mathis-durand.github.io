@@ -28,3 +28,6 @@ collections:
   publications:
     output: true      # Generate HTML files
     permalink: /publications/:path/  # Optional: Customize URLs
+  posts:
+    output: true      # Generate HTML files
+    permalink: /posts/:path/  # Optional: Customize URLs
