@@ -9,6 +9,7 @@
 │   └── header.html
 ├── _layouts/
 │   └── default.html
+├── _posts/
 ├── _projects/
 │   └── my-project.md
 ├── assets/
